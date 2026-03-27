@@ -1,3 +1,8 @@
 changes in master1
 
 changes in master2
+git this is feature1
+
+this is feature2
+
+this is feature3
