@@ -1,8 +1,7 @@
 changes in master1
 
 changes in master2
-this is feature1
-this is feature1
+git this is feature1
 
 this is feature2
 
